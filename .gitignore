@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 .DS_Store
+**/.DS_Store
+~$e Battle of Neighborhoods.docx
 creds.json
